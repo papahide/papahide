@@ -44,6 +44,10 @@ A través de mi código, mis principales fortalezas son:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ### 📈 Estadísticas de GitHub
