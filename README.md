@@ -49,9 +49,3 @@ A través de mi código, mis principales fortalezas son:
 ### 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=papahide&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=papahide&layout=compact&theme=radical)
-
----
-
-### 📫 Conectemos!
-- **GitHub:** [papahide](https://github.com/papahide)
-- Si te gusta mi trabajo, ¡no dudes en darle una ⭐ a mis repositorios!
